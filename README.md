@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid Khan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidafghan&label=Profile%20views&color=0e75b6&style=flat" alt="khalidafghan" /> </p>
 
+<img align="right" alt="coding" width="400" sre="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100000057577697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100000057577697" height="30" width="40" /></a>
