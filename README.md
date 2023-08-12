@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/khalid khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid khan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/afghanskills" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afghanskills" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100000057577697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100000057577697" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@afghanskills403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@afghanskills403" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
